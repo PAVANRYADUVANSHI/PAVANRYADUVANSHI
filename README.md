@@ -1,61 +1,117 @@
-# Hi, I'm Pavan R 👋
-### Java Full-Stack Developer | React.js · Spring Boot · SQL · RESTAPIs
-> Career-transitioned from Mechanical Engineering to Software Development — driven by a genuine passion
-for building things that work.
+<h1 align="center">Hey there, I'm Pavan R 👋</h1>
+ 
+<p align="center">
+  <b>Java Full-Stack Developer · Fresher · Problem Solver</b><br/>
+  Shivamogga, Karnataka, India
+</p>
+<p align="center">
+  <a href="mailto:pavanryadavkumsi25@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/pavan-r-9035b62a2">💼 LinkedIn</a> •
+  <a href="https://github.com/SRINIDHI-2524">🐙 GitHub</a>
+</p>
 ---
-## 🚀 About Me
-- 🎓 **B.E. Mechanical Engineering** — JNNCE (2024) | Now pursuing **Java Full-Stack Certification @ NIIT
-(2025–2026)**
-- 💻 Building full-stack web apps with **React.js**, **Core Java**, **Spring Boot**, and **MySQL**
-- 🧪 Experienced in **RESTAPI testing** with Postman & RESTAssured
-- 🤝 Agile team player — worked in 4-member dev teams with Git version control & code reviews
-- 📍 Based in Shivamogga, Karnataka | Open to **remote & on-site opportunities**
-- 📬 Reach me: **pavanryadavkumsi25@gmail.com**
+ 
+## 🙋‍♂️ About Me
+ 
+I'm a **Fresher Java Full-Stack Developer** with a background in Mechanical Engineering and a passion for building real-world web applications. Currently completing my **Java Full-Stack Certification at NIIT (2025–2026)**, I've built production-grade features — JWT authentication, payment integration, AI chatbot, and admin dashboards — as part of a team project.
+ 
+- 🔭 Currently working on: Full-Stack Java projects & sharpening Spring Boot skills
+- 🌱 Learning: Spring Boot (advanced), Microservices architecture, Docker basics
+- 💡 Open to: Entry-level Java Developer / Junior Software Engineer / API Tester roles
+- 🎓 B.E. Mechanical Engineering – JNNCE, Shivamogga (2024)
 ---
-## 🛠️Tech Stack
+ 
+## 🛠️ Tech Stack
+ 
 **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-thebadge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+ 
 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![RESTAPI](https://img.shields.io/badge/REST_API-FF6C37?style=for-thebadge&logo=postman&logoColor=white)
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-thebadge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studiocode&logoColor=white)
+ 
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+ 
+**Tools & Databases**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+ 
+**Concepts**
+ 
+`OOP` `JWT Authentication` `REST API Design` `Agile/Scrum` `Responsive Design` `DOM Manipulation`
+ 
 ---
-## 🏗️ Featured Projects
+ 
+## 🚀 Featured Projects
+ 
 ### 🍔 Food Delivery Web App — Full-Stack Platform
-> **React.js · Spring Boot · Core Java · MySQL · JWT · RESTAPI**
-A production-grade food delivery platform built in a 4-member Agile team.
-- 🔐 Secure **JWT authentication** & role-based access control
-- 💳 **Payment gateway integration** for seamless checkout
-- 🤖 **AI chatbot** support for customer queries
-- 📊 **Admin dashboard** for real-time order management
-- 📱 Fully **responsive UI** with dynamic routing & cart management
-- ✅ APIs tested end-to-end with **Postman & RESTAssured**
+> React.js · Core Java · Spring Boot · MySQL · JWT · REST API
+ 
+A production-grade food delivery platform built as part of a 4-member Agile team.
+ 
+- ✅ Secure JWT-based authentication & role-based admin dashboard
+- ✅ Payment gateway integration & AI chatbot support
+- ✅ Fully responsive React.js frontend with dynamic routing & real-time order tracking
+- ✅ RESTful APIs for auth, menu management & order processing — 100% validated with Postman & REST Assured
+- ✅ Git branching, pull requests & code reviews throughout
 ---
-### 🍕 Zomato-Inspired Frontend UI Clone
-> **HTML5 · CSS3 · JavaScript**
-A pixel-accurate, responsive food delivery interface.
-- 📐 Built with **CSS Grid & Flexbox** — works on mobile, tablet, desktop
-- ⚡ Interactive JS features: dynamic content, nav behavior, video sections
-- 🏎️ Optimized assets for fast load performance
+ 
+### 🎨 Zomato-Inspired UI Clone — Responsive Frontend
+> HTML5 · CSS3 · JavaScript
+ 
+A pixel-accurate, responsive frontend clone designed for cross-device compatibility.
+ 
+- ✅ CSS Grid & Flexbox layout across mobile, tablet & desktop
+- ✅ Interactive JavaScript: dynamic content, navbar behaviour, video thumbnails
+- ✅ Optimised asset structure for improved page load performance
 ---
+ 
 ## 📊 GitHub Stats
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRINIDHI2524&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIDHI2524&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=SRINIDHI2524&theme=tokyonight&hide_border=true)
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRINIDHI-2524&show_icons=true&theme=default&hide_border=true" alt="Pavan's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIDHI-2524&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 ---
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-r-9035b62a2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-thebadge&logo=github&logoColor=white)](https://SRINIDHI-2524.github.io/pavanr.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-(mailto:pavanryadavkumsi25@gmail.com)
+ 
+## 💪 Key Strengths
+ 
+| Strength | Detail |
+|---|---|
+| 🏗️ End-to-end full-stack app | Built production features (auth, payments, AI chatbot) as a fresher — rare for a non-CS graduate |
+| 🧪 API Testing | Hands-on with Postman & REST Assured — strong QA / API tester candidate |
+| 🔀 Cross-disciplinary | Mechanical Engineering + Full-Stack skills = strong problem-solving mindset |
+| 🌐 Active GitHub | Deployed portfolio with real-world coding output |
+ 
 ---
-*"From engineering blueprints to code commits — I build things that solve real problems."*
+ 
+## 📫 Let's Connect!
+ 
+I'm actively looking for **entry-level Java Developer or Junior Software Engineer roles**.
+Feel free to reach out — I'd love to connect!
+ 
+<p align="center">
+  <a href="mailto:pavanryadavkumsi25@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/pavan-r-9035b62a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SRINIDHI-2524">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+---
+ 
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+ 
